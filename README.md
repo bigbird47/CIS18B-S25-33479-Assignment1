@@ -25,7 +25,3 @@ Upon launching the system there are several options available:
 3. Withdraw Money: Choose an amount of money to withdraw from account  
 4. Check Balance: Check the amount of money currently in your account  
 5. Exit: Exits the system
-
-## Author
-
-Brian Siebert
